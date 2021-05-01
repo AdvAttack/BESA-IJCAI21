@@ -19,3 +19,7 @@ When using this code, or the ideas of BESA, please cite the following paper
   year={2021}
 }
 </code></pre>
+
+## Acknowledgement
+
+This code is based on the [TextAttack framework](https://github.com/QData/TextAttack).
