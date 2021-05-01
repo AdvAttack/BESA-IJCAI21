@@ -4,9 +4,10 @@ This repository contains the implementations of the IJCAI-21 paper: BESA: BERT-b
 
 ## Usage
 
-The following command will attack BERT model on IMDB dataset using our BESA.
+Our code can be easily tested by the command line like: 
 <pre><code>textattack attack --recipe bert-sa --model bert-base-uncased-imdb --num-examples 1000
 </code></pre>
+This will attack BERT model on IMDB dataset using our BESA.
 
 ## Citation
 
