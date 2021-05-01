@@ -22,4 +22,4 @@ When using this code, or the ideas of BESA, please cite the following paper
 
 ## Acknowledgement
 
-This code is based on the [TextAttack framework](https://github.com/QData/TextAttack).
+This code is based on the [TextAttack](https://github.com/QData/TextAttack) framework.
