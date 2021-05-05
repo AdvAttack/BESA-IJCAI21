@@ -1,4 +1,4 @@
-# BESA-IJCAI21
+# BESA: : BERT-based Simulated Annealing for Adversarial Text Attacks (IJCAI21)
 
 This repository contains the implementations of the IJCAI-21 paper: BESA: BERT-based Simulated Annealing for Adversarial Text Attacks.
 
@@ -23,3 +23,8 @@ When using this code, or the ideas of BESA, please cite the following paper
 ## Acknowledgement
 
 This code is based on the [TextAttack](https://github.com/QData/TextAttack) framework.
+
+
+## Contact
+
+Please contact Xinghao Yang or [Wei Liu](https://wei-research.github.io/) at firstname.lastname@uts.edu.au if you're interested to collaborate on this research!
